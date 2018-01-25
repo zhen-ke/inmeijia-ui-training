@@ -1,6 +1,6 @@
 # inmeijia-ui-training
 
-> 预览地址：[DEMO](hhttps://zhen-ke.github.io/inmeijia-ui-training/dist/) 
+预览地址：[DEMO](https://zhen-ke.github.io/inmeijia-ui-training/dist/) 
 
 ## Build Setup
 
