@@ -145,7 +145,7 @@
       .top {
         position: absolute;
         top: 1rem;
-        left: .5rem;
+        left: .55rem;
         width: 1rem;
         color: #6F727C;
         P {
@@ -329,7 +329,8 @@
           color: #999;
           width: 100%;
           box-sizing: border-box;
-          padding: .3rem;
+          padding: 0 .3rem;
+          height: .8rem;
         }
         .btn {
           width: 100%;

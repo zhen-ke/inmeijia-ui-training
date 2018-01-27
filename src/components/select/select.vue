@@ -39,7 +39,9 @@
     color: #999;
     .select-title {
       position: relative;
-      padding: .3rem;
+      padding: 0 .3rem;
+      height: .8rem;
+      line-height: .8rem;
       background: #fff;
       transition-duration: 300ms;
       cursor: pointer;
